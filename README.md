@@ -6,9 +6,11 @@ This repository is ONLY for parts where this printer deviates from other more we
 Links to files used in this printer:
 
 NEMA Motor mount:
+https://github.com/eclsnowman/Lien3D_Eustathios_Spider/blob/master/Other%203D%20Formats/STL/XY_Axis_Motor_Mount.STL
 
-Carriage
-Carriage Fan Duct:
+Carriage and components: 
+https://github.com/eclsnowman/Lien3D_Eustathios_Spider/tree/master/Other%203D%20Formats
+
 
 Printer build details:
 Derived from many other printers, this started out as a ‘build a printer with my son with all the spare parts I’d acquired over the years. 
